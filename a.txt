@@ -11,5 +11,4 @@
 12th commit in hotfix2
 14th commit in hotfix3
 16th commit in master
-18th commmit in hotfix5
-18th commmit in master
+18th commit in hotfix5
